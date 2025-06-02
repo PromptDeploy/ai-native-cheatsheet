@@ -1,4 +1,4 @@
-# 🧠 AI-Native Dev Cheatsheet
+# AI-Native Dev Cheatsheet
 
 A tactical reference for modern developers upgrading their workflows with AI — mapped task by task from legacy habits to scalable systems.
 
